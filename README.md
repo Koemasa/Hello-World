@@ -1,2 +1,8 @@
 # Hello-World
-## GitHub実践入門書を参考に作成
+このリポジトリはGitHub実践入門書を参考に作成しています。
+バージョン管理対象データ
++ psd
++ ai
++ HTML
++ CSS
++ Javascript
